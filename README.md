@@ -2,6 +2,4 @@
 Windows Processes Data Generation Program
 <br>
 
-<ul>
-  <li>Okay</li>
-</ul>
+<li>Help</li>
