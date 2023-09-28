@@ -3,9 +3,7 @@
 ###########################################
 import os as a
 import subprocess as b
-import pandas as c
 from datetime import date,datetime
-from time import sleep
 
 def main():
     def stream():
