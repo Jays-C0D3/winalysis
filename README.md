@@ -1,2 +1,2 @@
-# winalysis
+# Winalysis
 Windows Processes Data Generation Program
