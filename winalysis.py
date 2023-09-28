@@ -11,8 +11,6 @@ def main():
     def trace_f():
         keydate = open('keydate.txt','w')
         keydate.write(date.today().strftime('%Y%m%d'))
-    def analysis():
-        
     a.chdir('C:\winalysis')
     if 'keydate.txt' in a.listdir():
         tmp_subproc = b.run(['powershell', 'Get-content', 'keydate.txt'], capture_output=True)
