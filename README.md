@@ -1,5 +1,5 @@
 # Winalysis
-Windows Processes Data Generation Program
+Windows Processes Data Collector
 <br>
 <br>
 <h2>Requirements</h2>
