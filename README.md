@@ -10,4 +10,6 @@ Windows Processes Data Generation Program
 <li>Data Visualization tool: Tableau, Power-BI, etc. ( Tableau will be used for demonstration)</li>
 <br>
 <br>
-<i>The winalysis.py will need to be copied to your Windows Start Up folder. Please run setup.py first.</i>
+<i>The winalysis.py will need to be copied to your Windows Start Up folder.</i>
+<br>
+<i>Please run setup.py first to do so.</i>
