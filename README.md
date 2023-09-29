@@ -9,7 +9,9 @@ Windows Processes Data Generation Program
 <li>PowerShell or Command Prompt</li>
 <li>Data Visualization tool: Tableau, Power-BI, etc. ( Tableau will be used for demonstration)</li>
 <br>
-https://github.com/n000b-n000b/winalysis/assets/72074802/7b0e0c1d-18e3-4715-a0dd-946188a095b0
+
+![Story1](https://github.com/n000b-n000b/winalysis/assets/72074802/9c87234a-9a5c-494f-b001-3119d28318c8)
+
 
 <br>
 <i>The winalysis.py will need to be copied to your Windows Start Up folder.</i>
