@@ -1,4 +1,4 @@
-# Github : https://github.com/n000b-n000b
+# Github : https://github.com/Jays-C0D3
 #
 # This file will move the winalysis file to your startup folder when you run it.
 #You can also do this manually if you would like of course.
