@@ -1,5 +1,5 @@
 ###########################################
-# GitHub : https://github.com/n000b-n000b #
+# GitHub : https://github.com/Jays-C0D3 #
 ###########################################
 import os as a
 import subprocess as b
